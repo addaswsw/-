@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\暑期课\作业1\bin\Debug\net8.0-windows\作业1.exe
+C:\Users\lenovo\Desktop\暑期课\作业1\bin\Debug\net8.0-windows\作业1.deps.json
+C:\Users\lenovo\Desktop\暑期课\作业1\bin\Debug\net8.0-windows\作业1.runtimeconfig.json
+C:\Users\lenovo\Desktop\暑期课\作业1\bin\Debug\net8.0-windows\作业1.dll
+C:\Users\lenovo\Desktop\暑期课\作业1\bin\Debug\net8.0-windows\作业1.pdb
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.Form1.resources
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.dll
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\refint\作业1.dll
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.pdb
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\作业1.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\暑期课\作业1\obj\Debug\net8.0-windows\ref\作业1.dll
